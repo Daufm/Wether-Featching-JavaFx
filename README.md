@@ -22,4 +22,4 @@ A simple JavaFX application that fetches and displays weather information for a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/weather-app.git
+   git clone https://github.com/Daufm/Wether-Featching-JavaFx.git
